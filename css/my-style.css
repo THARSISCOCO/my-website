@@ -1,0 +1,57 @@
+.navbar-nav {
+	float: right;
+	margin-left: auto;
+}
+
+.my-title {
+	padding: 70px;
+	font-size: 18px;
+	color: #999;
+}
+
+.project-container {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	/*width: 900px !important;*/
+}
+
+.project-container img {
+	width: 200px;
+	height: auto;
+	padding-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.my-words p {
+	text-align: center;
+}
+
+.work-title {
+	font-size: 11px;
+	color: #999;
+}
+
+.footer-style {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #ddd;
+	font-size: 11px;
+}
+
+.project-link {
+	color: #999;
+
+}
+
+.projecrt-link :hover {
+
+}
+
+a:hover {
+	color: #ff9900 !important;
+	text-decoration: none !important;
+
+}
